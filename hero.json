@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Ironman"
+    },
+    {
+      "name": "Captain America",
+      "id": 3
+    },
+    {
+      "name": "Black Panther",
+      "id": 4
+    },
+    {
+      "name": "Black Widow",
+      "id": 5
+    },
+    {
+      "name": "Hulk",
+      "id": 6
+    },
+    {
+      "name": "Antman",
+      "id": 7
+    },
+    {
+      "name": "Doctor Strange",
+      "id": 8
+    },
+    {
+      "name": "Captain Marvel",
+      "id": 9
+    },
+    {
+      "name": "Ant-Man",
+      "id": 10
+    }
+  ]
+}
